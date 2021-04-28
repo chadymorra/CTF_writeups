@@ -4,4 +4,4 @@
 
 Rooms are organized by categories such as linux privesc, linux training, WebApp security, cryptography, etc..
 
-**[Linux](https://github.com/chadymorra/CTF_writeups/tree/main/Linux_PrivEsc)**
+**[Linux_PrivEsc](https://github.com/chadymorra/CTF_writeups/tree/main/Linux_PrivEsc)**
