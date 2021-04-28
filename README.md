@@ -1,4 +1,4 @@
-# TryHackME CTF Writeups
+# TryHackMe CTF Writeups
 
 ## This repo contains writeups and my notes for TryHackMe CTF rooms
 
