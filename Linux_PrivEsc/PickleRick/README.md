@@ -24,6 +24,4 @@ sudo -l shows that www-data may run everything as SUDO with NOPASSWORD
 sudo bash -p give a root shell
 then found 3rd ingredient *********** under root home directory
 
-## Not alot of tricks here on this box, the usual nmap scan, gobuster directory enumeration, 
-nikto to get the login.php path, looking at the html source code and robots.txt was necessary to find the username and password,
-and knowing how to get a reverse shell was needed as well. 
+## Not alot of tricks here on this box, the usual nmap scan, gobuster directory enumeration, nikto to get the login.php path, looking at the html source code and robots.txt was necessary to find the username and password, and knowing how to get a reverse shell was needed as well. 
