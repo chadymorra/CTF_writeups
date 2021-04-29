@@ -9,13 +9,12 @@
 http-server-header: Apache/2.4.18 (Ubuntu)
 http-title: Rick is sup4r cool
 ```
-***Found username on source page***
+***Found username on source page**
 
 **Username: R1ckRul3s**
+**robots.txt has __Wubbalubbadubdub__ (password?)**
 
-*robots.txt has __Wubbalubbadubdub__ (password?)*
-
-***Found login page /login.php***
+***Found login page /login.php**
 *logged in using username **R1ckRul3s** and password **__Wubbalubbadubdub__**.
 *cat is disabled so need to use another tool to read files.
 **Found 1st ingredient**
