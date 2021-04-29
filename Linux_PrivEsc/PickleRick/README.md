@@ -1,4 +1,4 @@
-# Linux Box
+# PickleRick
 ---
 
 ### Nmap scan
@@ -20,12 +20,12 @@ http-title: Rick is sup4r cool
 *cat is disabled so need to use another tool to read files.
 **Found 1st ingredient**
 
----
+
 
 **After searching around in the filesystem.**
 **Found 2nd ingredient under /home/rick directory**
 
----
+
 
 **For the 3rd ingredient:**
 
@@ -33,14 +33,15 @@ http-title: Rick is sup4r cool
 2. logged in as www-data
 3. sudo -l shows that www-data may run everything as SUDO with NOPASSWORD
 4. sudo bash -p give a root shell
-**found 3rd ingredient under root home directory**
+**Found 3rd ingredient under root home directory**
 
 ---
-```
+
+***
 > Not alot of tricks here on this box, 
 > the usual nmap scan, 
 > gobuster directory enumeration, 
 > nikto to get the login.php path, 
 > looking at the html source code and robots.txt was necessary to find the username and password, 
 > and knowing how to get a reverse shell was needed as well. 
-```
+***
